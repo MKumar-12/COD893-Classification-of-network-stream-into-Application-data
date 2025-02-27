@@ -1,0 +1,4 @@
+Models tried:
+RF                              74%
+RF with Grid search             76%
+XGBoost                         75%
