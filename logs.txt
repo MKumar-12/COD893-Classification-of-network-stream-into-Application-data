@@ -1,0 +1,22 @@
+2025-02-27 12:26:30,049 - INFO - Processing directory: .\Pcaps
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\google_browsing.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\google_drive_upl-dw.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\google_mail.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\streaming_amazon-prime.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\streaming_hotstar.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\streaming_netflix.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\streaming_spotify.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\streaming_youtube.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\teams_call.pcap
+2025-02-27 12:26:30,050 - INFO - Processing: .\Pcaps\teams_messaging.pcap
+2025-02-27 12:26:40,944 - INFO - Completed : .\Pcaps\teams_messaging.pcap
+2025-02-27 12:26:46,852 - INFO - Completed : .\Pcaps\teams_call.pcap
+2025-02-27 12:27:08,828 - INFO - Completed : .\Pcaps\google_mail.pcap
+2025-02-27 12:27:19,743 - INFO - Completed : .\Pcaps\google_drive_upl-dw.pcap
+2025-02-27 12:27:31,445 - INFO - Completed : .\Pcaps\streaming_spotify.pcap
+2025-02-27 12:27:34,959 - INFO - Completed : .\Pcaps\streaming_youtube.pcap
+2025-02-27 12:28:04,210 - INFO - Completed : .\Pcaps\streaming_hotstar.pcap
+2025-02-27 12:28:48,201 - INFO - Completed : .\Pcaps\google_browsing.pcap
+2025-02-27 12:29:07,202 - INFO - Completed : .\Pcaps\streaming_netflix.pcap
+2025-02-27 12:30:53,739 - INFO - Completed : .\Pcaps\streaming_amazon-prime.pcap
+2025-02-27 12:30:54,648 - INFO - Merged CSV saved as: merged_output.csv
