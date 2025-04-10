@@ -1,6 +1,7 @@
 *.pcap
 Logs/*
 Temp/*
+Models/*
 
 # ignore self notes
 Scripts/notes.txt
