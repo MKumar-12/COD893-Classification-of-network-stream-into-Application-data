@@ -1,1 +1,6 @@
 *.pcap
+Logs/*
+Temp/*
+
+# ignore self notes
+Scripts/notes.txt

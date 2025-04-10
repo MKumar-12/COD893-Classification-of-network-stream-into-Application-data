@@ -1,0 +1,37 @@
+[To Be Evaluated]
+
+Dataset: SIT_DATA_different_classes
+
+Models tried:                   Acc.        f1-score
+RF                              74%
+RF with Grid search             76%
+XGBoost                         75%
+Transformer                     
+CNN
+
+
+=================================================================================================================================
+Dataset: SIT_DATA
+
+Models tried:                   Acc.        f1-score
+RF                              
+RF with Grid search             
+XGBoost                         
+Transformer                     
+CNN
+
+
+=================================================================================================================================
+Dataset: HOSTEL_DATA
+
+Models tried:                   Acc.        f1-score
+RF                              
+RF with Grid search             
+XGBoost                         
+Transformer                     
+CNN
+
+
+=================================================================================================================================
+
+Update : Treat all other Application's data as UNIDENTIFIED Appl.
